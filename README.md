@@ -1,16 +1,6 @@
 # currency_converter
 
-A Flutter project wherein user can enter amount in USD and convert to INR.
+A bbasic Flutter project wherein user can enter amount in USD and convert to INR.
 
-## Getting Started
+Note: 1 USD == 82.92 (as of 28 JUL 2023)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
